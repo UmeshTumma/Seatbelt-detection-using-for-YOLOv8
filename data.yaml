@@ -1,0 +1,7 @@
+path: C:\Umesh college\Project file\Seatbelt_Detection
+train: C:\Umesh college\Project file\Seatbelt_Detection\train
+val: C:\Umesh college\Project file\Seatbelt_Detection\valid
+test: C:\Umesh college\Project file\Seatbelt_Detection\test
+
+nc: 2
+names: ['no seatbelt', 'seatbelt']
